@@ -16,3 +16,7 @@ Die Commits sollten regelmässig geschehen wenn man an einem Projekt arbeitet. S
 Schlussendlich kann man mit dem letzten Befehl alles bestätigen sobald man fertig ist. man pusht sozusagen den momentanen lokalen zustand
 -git pull origin main
 genau gleich kann man man sich mit dem Pull-Befehl den zustand holen online auf seinen lokalen Ordner holen.
+
+es gibt noch weitere Befehle wie 
+-git status
+aber das waren die gurndsätzlichen Befehle
